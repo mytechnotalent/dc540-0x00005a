@@ -6,7 +6,7 @@ DC540 hacking challenge 0x00005a.
 <br>
 
 ## PROMOTIONAL VIDEO - WATCH NOW [HERE](https://youtu.be/YJAa4o7WXkE) ON YOUTUBE
-## CRITICAL PART 5A VIDEO - WATCH NOW [HERE](https://youtu.be/V1d52iOoF_Y) ON YOUTUBE
+## ENCRYPTED MESSAGE VIDEO - WATCH NOW [HERE](https://youtu.be/V1d52iOoF_Y) ON YOUTUBE
 
 <br>
 
