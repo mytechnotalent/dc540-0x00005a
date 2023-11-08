@@ -42,7 +42,7 @@ HRFHBXB O ZC SRQZQY TE BTBRMU DSE SGL QT UTIB EXWWV XMVZUP XI OPVES KBHX RL ZPOQ
 <br>
 
 ## MISSION
-You have been selected by the DC540 ANGELS OF DEATH to decrypt these 5 messages for Empress N in the EMPIRE of REDAH.  Find the decryption keys and use the `MicroCipher.py` app  and report the 5 decrypted messages back to, "The Architect" with your results by sending a private Discord DM to Kevin Thomas.
+You have been selected by the DC540 ANGELS OF DEATH to decrypt these 5 messages for Empress N in the EMPIRE of REDAH.  Find the decryption keys and use the `MicroCipher.py` app  and report the 5 decrypted messages back to, "Master Assembler" with your results by sending a private Discord DM to @P4R4D0X in the DC540 Discord channel listed above.
 
 ## HINT
 "The keys are right in front of your eyes!"
